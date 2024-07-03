@@ -67,6 +67,6 @@
 
 <p align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkylsmp&theme=shadow_green&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=rizkylsmp&theme=shadow_green&show_icons=true)
 
 </p>
