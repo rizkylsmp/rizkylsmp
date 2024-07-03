@@ -66,8 +66,7 @@
 # Stats 📈
 
 <p align="center">
-<img width=351 src="https://readme-stats-spelljinxer.vercel.app/api?username=Spelljinxer&theme=dracula&show_icons=true&count_private=true&show_icons=true">&nbsp;
-<img width=294 src="https://readme-stats-spelljinxer.vercel.app/api/top-langs?username=Spelljinxer&layout=compact&theme=dracula&custom_title=Top&nbsp;Languages"/><br>
-<!-- Streak API-->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Spelljinxer&theme=dracula" alt="mystreak"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkylsmp&theme=shadow_green&show_icons=true)
+
 </p>
