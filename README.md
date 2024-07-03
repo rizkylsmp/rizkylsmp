@@ -66,6 +66,7 @@
 # Stats 📈
 
 <p align="center">
-  <img width=351 src="https://github-readme-stats.vercel.app/api?username=rizkylsmp&theme=shadow_green&show_icons=true&count_private=true&show_icons=true">&nbsp;<img width=294 src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkylsmp&layout=compact&theme=shadow_green&custom_title=Top&nbsp;Languages"/>
+  <img width=351 src="https://github-readme-stats.vercel.app/api?username=rizkylsmp&theme=shadow_green&show_icons=true&count_private=true&show_icons=true">&nbsp;
+  <img width=294 heigth="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkylsmp&layout=compact&theme=shadow_green&custom_title=Top&nbsp;Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkylsmp&theme=shadow_green" alt="mystreak"/>
 </p>
