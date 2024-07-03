@@ -28,12 +28,12 @@
     </details>
 - 💙 Web / Game Programing
 - 🌐 <a href="https://rizkylsmp.my.id">rizkylsmp.my.id</a>
+
   <br>
 
 # Knowledge 🧠
 
 <center>
- <h3 align=center>
   👨‍💻Tech Stack👨‍💻
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,6 +58,7 @@
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+<br>
 </center>
 
 # Stats 📈
