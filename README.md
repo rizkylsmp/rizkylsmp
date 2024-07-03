@@ -10,7 +10,7 @@
 # Hi there 👋
 
 - 📆 28/08/03
-- 🎓 <a href="https://opac-lumajang.polinema.ac.id">Politeknik Negeri Malang PSDKU Lumajang</a> - Teknologi Informasi <img src="./images/xiao2.gif" align="right" width=150px/>
+- 🎓 <a href="https://www.polinema.ac.id/">Politeknik Negeri Malang</a> - Teknologi Informasi <img src="./images/xiao2.gif" align="right" width=150px/>
 - ❤️ Anime, Games
   <details><summary>📺 Favourite Animes</summary>
     <ul>
