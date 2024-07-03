@@ -78,7 +78,7 @@
 <a href="https://www.instagram.com/rizky.ls/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://open.spotify.com/user/bhhigcvj18pg7mfr8qh6160r9/playlists"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://anilist.co/user/hakissth/"><img src="https://img.shields.io/badge/AniList-AniList-blue?style=for-the-badge&logo=Anilist&logoColor=white&labelColor=blue&color=blue&label="></a></a>
-<br>
+<br><br>
 <img align="center" width=50% src="./images/xiao3.gifv">
 <br><br>
 </p>
