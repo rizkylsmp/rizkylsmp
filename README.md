@@ -51,8 +51,8 @@
   ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
   ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-🛠️Tools🛠️
 <br>
+🛠️Tools🛠️
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
@@ -65,7 +65,8 @@
 # Stats 📈
 
 <p align="center">
-<img width=351 src="https://readme-stats-spelljinxer.vercel.app/api?username=Spelljinxer&theme=dracula&show_icons=true&count_private=true&show_icons=true">&nbsp;<img width=294 src="https://readme-stats-spelljinxer.vercel.app/api/top-langs?username=Spelljinxer&layout=compact&theme=dracula&custom_title=Top&nbsp;Languages"/><br>
+<img width=351 src="https://readme-stats-spelljinxer.vercel.app/api?username=Spelljinxer&theme=dracula&show_icons=true&count_private=true&show_icons=true">&nbsp;
+<img width=294 src="https://readme-stats-spelljinxer.vercel.app/api/top-langs?username=Spelljinxer&layout=compact&theme=dracula&custom_title=Top&nbsp;Languages"/><br>
 <!-- Streak API-->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spelljinxer&theme=dracula" alt="mystreak"/>
 </p>
