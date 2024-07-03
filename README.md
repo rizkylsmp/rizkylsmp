@@ -4,7 +4,7 @@
   <img src="./images/xiao1.gif">
 </div>
 <p align="center">
-  <img <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=186C2E&random=false&width=435&lines=GIMME+ALMOND+TOFUUU+%3C333" alt="Adeptus Xiao" />
+  <img <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=186C2Ecenter=true&&random=false&width=435&lines=GIMME+ALMOND+TOFUUU+%3C333" alt="Adeptus Xiao" />
 </p>
 
 # Hi there 👋
@@ -35,7 +35,8 @@
  <h3 align=center>
   <br>
   👨‍💻Tech Stack👨‍💻
-  <img src"https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white")
   <img src"https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src"https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src"https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -50,6 +51,7 @@
   <img src"https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
 🛠️Tools🛠️
+
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
