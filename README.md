@@ -7,15 +7,15 @@
 
 # Hi there 👋
 <p align="center">
-*📆 24/07/02
-*🎓 <a href="https://opac-lumajang.polinema.ac.id">Politeknik Negeri Malang PSDKU Lumajang</a> - Teknologi Informasi
+* 📆 24/07/02
+* 🎓 <a href="https://opac-lumajang.polinema.ac.id">Politeknik Negeri Malang PSDKU Lumajang</a> - Teknologi Informasi
 <img src="./images/xiao2.gif" align="right" width=150px></img>
-*❤️ Anime, Games
+* ❤️ Anime, Games
   * <details><summary>📺 Favourite Animes</summary>
     <ul>
-      <li><a href="https://anilist.co/anime/11757/Sword-Art-Online">Sword Art Online</li>
-      <li><a href="https://anilist.co/anime/11771/Kuroko-no-Basket">Kuroko no Basuke</li>
-      <li><a href="https://anilist.co/anime/16498/Shingeki-no-Kyojin">Attack on Titan</li></a>
+      <li><a href="https://anilist.co/anime/11757/Sword-Art-Online">Sword Art Online</a></li>
+      <li><a href="https://anilist.co/anime/11771/Kuroko-no-Basket">Kuroko no Basuke</a></li>
+      <li><a href="https://anilist.co/anime/16498/Shingeki-no-Kyojin">Attack on Titan</a></li>
     </ul>
     </details>
     * <details><summary>🎮 Favourite Games</summary>
@@ -25,5 +25,7 @@
       <li>Grand Chase</li>
     </ul>
     </details>
-*💙 Web / Game Programing
-*🌐 <a href="https://rizkylsmp.my.id">rizkylsmp.my.id</a>
+* 💙 Web / Game Programing
+* 🌐 <a href="https://rizkylsmp.my.id">rizkylsmp.my.id</a>
+   
+</p>
