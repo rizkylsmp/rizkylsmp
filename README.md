@@ -1,7 +1,10 @@
 <!-- Author: rizkylsmp -->
-<img align="center" src="./images/xiao1.gif">
+
+<div align="center">
+  <img src="./images/xiao1.gif">
+</div>
 <p align="center">
-<img <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2CAE2B&center=true&random=false&width=435&lines=GIMME+ALMOND+TOFUUU+%3C33" alt="Adeptus Xiao" /></img>
+  <img <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2CAE2B&center=true&random=false&width=435&lines=GIMME+ALMOND+TOFUUU+%3C33" alt="Adeptus Xiao" /></img>
 </p>
 
 # Hi there 👋
